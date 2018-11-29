@@ -1,0 +1,17 @@
+<script>
+<!--Comentario
+// keep track of whether we just computed display.value
+var computed =false
+var num =2.5
+var suma =4+4
+
+document.getElementsByTagName('Hola')
+
+function pushStack(form)
+{
+    form.stack.value = form.display.value
+    var result = 4 * (4.5) - 2.3
+    form.display.value = 0
+}
+// Define a function to add a new character to the display
+</script>
